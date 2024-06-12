@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EdisonMGG
-- 👀 I’m interested in Gadgets
+- 👀 Interested in tech
 - 🌱 I’m currently learning MCA
-- 💞️ I’m looking to collaborate on someone
 - 📫 Connect me
 
 <!---
